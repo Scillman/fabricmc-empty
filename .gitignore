@@ -1,0 +1,14 @@
+# Gradle
+.gradle/
+
+# Fabric
+build/
+run/
+bin/
+
+# IDE
+.idea/
+.vscode/
+
+# Project
+mods/
